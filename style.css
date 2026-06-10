@@ -1160,3 +1160,8 @@ body {
     width: 100%;
   }
 }
+.ku-logo {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+}
