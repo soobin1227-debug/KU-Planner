@@ -114,6 +114,11 @@ body {
   align-items: center;
   gap: 0.75rem;
 }
+.KU-logo {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
 
 .ku-shield {
   font-size: 2.2rem;
@@ -1160,8 +1165,8 @@ body {
     width: 100%;
   }
 }
-.ku-logo {
-    width: 32px;
-    height: 32px;
+.KU-logo {
+    width: 40px;
+    height: 40px;
     object-fit: contain;
 }
